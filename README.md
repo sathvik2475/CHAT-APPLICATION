@@ -1,2 +1,2 @@
 # CHAT APPLICATION
- Using java, mysql
+ Using java swing, mysql
